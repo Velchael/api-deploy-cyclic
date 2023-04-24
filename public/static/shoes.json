@@ -1,0 +1,68 @@
+[
+    {
+      "id": "94313731",
+      "name": "Faça o curso, de Frot-end" ,
+      "price": 128.00,
+      "oldPrice": 142.00,
+      "image": "https://blog.nubank.com.br/wp-content/uploads/2022/07/blog-header_v01.png" 
+    },
+    {
+      "id": "94313762",
+      "name": "Faça o curso, de Back-end",
+      "price": 6.99,
+      "oldPrice": 9.99,
+      "image": "https://blog.nubank.com.br/wp-content/uploads/2022/05/Header_News_INu.jpg" 
+    },
+    
+    { 
+      "id": "943137XQ",
+      "name": "Faça o curso, de CSS3",
+      "price": 20.99,
+      "oldPrice": 24.00,
+      "image": "https://pronatec.pro.br/wp-content/uploads/2022/07/Nubank-abre-10-mil-vagas-em-curso-de-programacao-estude-de-forma-100-gratuita.jpg"
+    },
+    {
+      "id": "95077714",
+      "name": "Faça o curso, de HTML",
+      "price": 29.99,
+      "oldPrice": 36.99,
+      "image": "https://i1.wp.com/blog.nu.com.mx/wp-content/uploads/2018/10/Nubank-400-mi-grid.jpg?w=656&amp;ssl=1" 
+
+    },
+    {
+      "id": "9507779N",
+      "name": "Faça o curso, de React",
+      "price": 27.99,
+      "oldPrice": 33.99,
+      "image": "https://pronatec.pro.br/wp-content/uploads/2022/06/Oportunidades-de-emprego-Nubank-Vagas-para-estagiarios-auxiliares-analistas-especialistas-e-mais-1024x576.jpg"
+    },
+    {
+      "id": "92601102",
+      "name": "Faça o curso, de Github",
+      "price": 6.99,
+      "oldPrice": 9.99,
+      "image": "https://blog.nubank.com.br/wp-content/uploads/2022/05/Pillar_Header_2.jpg"
+    },
+    {
+      "id": "9465450R",
+      "name": "Faça o curso, de PHP",
+      "price": 27.99,
+      "oldPrice": 39.99,
+      "image": "https://blog.nubank.com.br/wp-content/uploads/2020/09/Recessao-PIB.jpg?w=1024"
+    },
+    {
+      "id": "95004531",
+      "name": "Faça o curso, de API",
+      "price": 8.99,
+      "oldPrice": 12.99,
+      "image": "https://pronatec.pro.br/wp-content/uploads/2022/05/Instituto-oferta-vagas-gratuitas-em-curso-profissionalizante-jovens-a-partir-de-17-anos-podem-se-inscrever.jpg"
+    },
+    {
+      "id": "94672705",
+      "name": "Faça o curso, de Deploy",
+      "price": 27.99,
+      "oldPrice": 31.99,
+      "image": "https://i1.wp.com/www.negociosdisruptivos.com/wp-content/uploads/2018/12/shutterstock_248574760_Scanrail1.jpg?w=1011&amp;ssl=1"
+    }
+  ]
+
